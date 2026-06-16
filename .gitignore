@@ -25,4 +25,6 @@ Pipeline/DATA/PROCESSED/df_features.csv
 Pipeline/DATA/PROCESSED/df_flux.csv
 Pipeline/DATA/PROCESSED/df_wave.csv
 Pipeline/DATA/RAW/df_master.csv
+Pipeline/DATA/desktop.ini
 Pipeline/DATA
+Pipeline/desktop.ini
